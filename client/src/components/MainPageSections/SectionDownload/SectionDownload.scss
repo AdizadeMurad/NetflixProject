@@ -1,0 +1,25 @@
+.download-section{
+    background-color: black;   
+    min-height: 545px;
+    display: flex;
+}
+.general-download{
+    display: flex;  
+    justify-content: space-between;
+    max-width: 960px;
+    width: 100%;
+    margin: auto;
+}
+.download-text{
+    max-width: 474px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+}
+
+.download-img{
+max-width: 474px;
+height: 360px;
+width: 100%;
+}

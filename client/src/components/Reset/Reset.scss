@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family:  Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+   
+
+}
+.line-page{
+    height: 9px;
+    background-color:rgb(35,35,35);
+    width: 100%;
+}
+.mainpage-head{
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+    }
+    .mainpage-text{
+        font-size: 24px;
+        color: white;
+    }
+    a{
+        color: rgb(176, 176, 176);
+    }
