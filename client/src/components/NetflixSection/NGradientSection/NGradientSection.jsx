@@ -1,5 +1,5 @@
 import React from 'react'
-import './NGradientSection.scss'
+import './NGradientSection.css'
 
 
 function NGradientSection() {

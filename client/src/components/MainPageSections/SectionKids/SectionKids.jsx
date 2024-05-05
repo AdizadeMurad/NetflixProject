@@ -1,5 +1,5 @@
 import React from "react";
-import "./SectionKids.scss";
+import "./SectionKids.css";
 function SectionKids() {
   return (
     <>

@@ -1,5 +1,5 @@
 import React from 'react'
-import "./LoginNavbar.scss"
+import "./LoginNavbar.css"
 
 function LoginNavbar() {
   return (

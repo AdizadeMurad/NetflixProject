@@ -1,5 +1,5 @@
 import React from "react";
-import "./SectionWatch.scss";
+import "./SectionWatch.css";
 function SectionWatch() {
   return (
     <>

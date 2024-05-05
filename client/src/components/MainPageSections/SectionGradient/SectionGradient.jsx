@@ -1,5 +1,5 @@
 import React from "react";
-import "./SectionGradient.scss";
+import "./SectionGradient.css";
 
 function SectionGradient() {
   return (

@@ -1,0 +1,16 @@
+.footernetflix{
+    width: 100%;
+    background-color:rgb(24,24,24);
+
+}
+.footer-general{
+    padding-top: 65px;
+    padding-bottom: 65px;
+    display: flex;
+    gap: 50px;
+    margin: auto;
+}
+.footer-row{
+    display: flex;
+    align-items: center;
+}

@@ -1,5 +1,7 @@
 import React from "react";
-import "./NetflixNavbar.scss"
+import "./NetflixNavbar.css"
+import { Link } from "react-router-dom";
+
 
 function NetflixNavbar() {
   return (
@@ -17,11 +19,11 @@ function NetflixNavbar() {
               </div>
               <div>
                 <ul className="netflixitems">
-                  <li>Home</li>
-                  <li>TV Shows</li>
-                  <li>Movies</li>
-                  <li>New & Popular</li>
-                  <li>My List</li>
+                 <Link to={'/NetflixHome'}><li>Home</li></Link>
+                 <Link to={'/NetflixHome/TvShowsPage'}><li>TV Shows</li></Link>
+                 <Link to={'/NetflixHome/MoviesPage'}><li>Movies</li></Link>
+                 <Link to={'/NetflixHome/NewPopular'}><li>New & Popular</li></Link>
+                 <Link to={'/NetflixHome/Mylist'}><li>My List</li></Link>
                 </ul>
               </div>
             </div>

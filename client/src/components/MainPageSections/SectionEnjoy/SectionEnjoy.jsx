@@ -1,5 +1,5 @@
 import React from "react";
-import "./SectionEnjoy.scss";
+import "./SectionEnjoy.css";
 
 function SectionEnjoy() {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./SectionGradientLogin.scss";
+import "./SectionGradientLogin.css";
 import axios from "axios";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";

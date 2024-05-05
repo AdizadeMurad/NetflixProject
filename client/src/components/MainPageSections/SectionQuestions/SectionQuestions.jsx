@@ -1,5 +1,5 @@
 import React from 'react'
-import "./SectionQuestions.scss"
+import "./SectionQuestions.css"
 function SectionQuestions() {
   return (
    <>

@@ -1,5 +1,5 @@
 import React from 'react'
-import "./SectionDownload.scss"
+import "./SectionDownload.css"
 
 function SectionDownload() {
   return (

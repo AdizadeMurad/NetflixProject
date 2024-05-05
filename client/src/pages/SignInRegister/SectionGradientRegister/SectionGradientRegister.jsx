@@ -1,5 +1,5 @@
 import React from "react";
-import "./SectionGradientRegister.scss";
+import "./SectionGradientRegister.css";
 import { Link } from "react-router-dom";
 import axios from "axios";
 import { useState } from "react";
